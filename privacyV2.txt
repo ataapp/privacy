@@ -1,6 +1,10 @@
+Interactive Breathwork Privacy Policy (version 1.3.1 and above)
+
 This app collects the following data:
-- Crash logs: If the app crashes, we will collect logs data directly related to the crash. Purpose: to identify the cause of the crash to fix the app.
-- App activity: How long you use each feature of the app. Purpose: to know what feature to improve.
+- Crash logs: If the app crashes, we will collect logs data directly related to the crash. 
+  Purpose: to identify the cause of the crash to fix the app.
+- App activity: How long you use each feature of the app. 
+  Purpose: to know what feature to improve.
 
 This app collects data using the following third-party service providers:
 - Google Analytics for Firebase (Privacy Policy: firebase.google.com/policies/analytics)
