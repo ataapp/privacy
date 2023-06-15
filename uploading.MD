@@ -1,5 +1,7 @@
 # Exercise Uploading Terms and Conditions
 
+[Français](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en&_x_tr_pto=wapp)  [Español](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) [Deutsch](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto=wapp)  [Português](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)  [한국어](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)  [日本語](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en&_x_tr_pto=wapp)  [Türkçe](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=en&_x_tr_pto=wapp)  [Tiếng Việt](https://github-com.translate.goog/ataapp/privacy/blob/main/uploading.MD?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp)  
+
 These Exercise Uploading Terms and Conditions (the "Terms") govern your use of the exercise uploading feature ("Feature").
 By using the Feature, you agree to these Terms. If you do not agree to these Terms, please refrain from using the Feature.
 
