@@ -1,0 +1,58 @@
+Terms of Use
+
+Welcome to Light Reminder!
+
+These Terms of Use (the "Terms") govern your access to and use of the Light Reminder mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
+
+1. Scope of Terms
+
+These Terms apply to your use of the App, including all content, features, and functionality of the App.
+
+2. License Grant
+
+Subject to your compliance with these Terms, we grant you a non-exclusive, non-transferable, limited license to access and use the App for your personal, non-commercial use.
+
+3. Restrictions
+
+You agree that you will not:
+
+Use the App for any unlawful or unauthorized purpose.
+Use the App to transmit or distribute any viruses, malware, or other harmful code.
+Use the App to collect or store any personal data about other users without their consent.
+Reverse engineer, decompile, or disassemble the App.
+Remove or alter any copyright or other proprietary notices contained in the App.
+4. Intellectual Property
+
+The App is protected by copyright, trademark, and other intellectual property laws. All ownership rights in and to the App remain with us.
+
+5. Termination
+
+We may terminate your license to use the App at any time, for any reason, and without notice.
+
+6. External Services. 
+
+The App may enable access to our or third-party services and websites (collectively and individually, "External Services"). You agree to use the External Services at your sole risk. We are not responsible for examining or evaluating the content or accuracy of any third-party External Services, and shall not be liable for any such third-party External Services. Data displayed by any Licensed Application or External Service, including but not limited to financial, medical, and location information, is for general informational purposes only and is not guaranteed by us. You will not use the External Services in any manner that is inconsistent with these terms or that infringes the intellectual property rights of us or any third party. You agree not to use the External Services to harass, abuse, stalk, threaten, or defame any person or entity, and that we are not responsible for any such use. To the extent you choose to use such External Services, you are solely responsible for compliance with any applicable laws. We reserves the right to change, suspend, remove, disable or impose access restrictions or limits on any External Services at any time without notice or liability to you. 
+
+7. Disclaimer
+
+THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE APP OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON OR ACCESSIBLE THROUGH THE APP. 
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY PERSONAL INJURY, HEALTH CONDITION, OR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER, ARISING OUT OF OR IN CONNECTION WITH YOUR ACCESS TO OR USE OF THE APP, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE LICENSED APPLICATION, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY
+
+9. Entire Agreement
+
+These Terms constitute the entire agreement between you and us with respect to your use of the App.
+
+10. Severability
+
+If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck from these Terms and the remaining provisions shall remain in full force and effect.
+
+11. Changes to Terms
+
+We reserve the right to change these Terms at any time. Any changes to these Terms will be posted on the App. Your continued use of the App after any changes to these Terms constitutes your acceptance of the new Terms.
+
+12. Contact Us
+
+If you have any questions about these Terms, please contact us at contact.ataapp.gmail.com
