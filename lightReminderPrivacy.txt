@@ -5,3 +5,5 @@ This app does not collect any personally identifiable information.
 All the app data is stored on the device.
 
 No data is shared with third parties.
+
+If you choose to send us a comment or suggestion using the in-app annonymous message, only the message you entered is sent. No other data is sent to us.
